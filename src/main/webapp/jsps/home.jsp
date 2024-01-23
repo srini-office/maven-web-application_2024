@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Srini Technology</h1>
-<h1 align="center"> Real Training course for Devops in chennai</h1>
+<h1 align="center"> Real Training course for Devops in Chennai</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
